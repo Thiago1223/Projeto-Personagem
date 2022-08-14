@@ -1,0 +1,44 @@
+body {
+    background-image: url("img/mapa.webp");
+    background-size: 1900px;
+    color: white;
+    display: flex;
+}
+.logo {
+    height: 250px;
+    padding-top: 20px;
+}
+header {
+    background-color: rgb(22, 116, 122);
+}
+.personagem {
+    padding-left: 9px;
+    width: 550px;
+    height: 490px;
+    border-radius: 100px;
+}
+.titulo1 {
+    font-size: 50px;
+    padding-left: 210px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.intro-container {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white
+}
+main {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 350px;
+    padding-left: 30px;
+}
+ol {
+    list-style-type: none;
+    font-size: 30px;
+    padding-left: 3px;
+}
+.copyright {
+    padding-top: 800px;
+}
