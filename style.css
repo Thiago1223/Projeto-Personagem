@@ -12,10 +12,11 @@ header {
     background-color: rgb(22, 116, 122);
 }
 .personagem {
-    padding-left: 9px;
+    margin-left: 5px;
     width: 550px;
     height: 490px;
     border-radius: 100px;
+    border: solid 5px green;
 }
 .titulo1 {
     font-size: 50px;
