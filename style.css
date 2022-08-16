@@ -12,11 +12,21 @@ header {
     background-color: rgb(22, 116, 122);
 }
 .personagem {
-    margin-left: 5px;
+    margin-left: 3.4px;
     width: 550px;
     height: 490px;
     border-radius: 100px;
-    border: solid 5px green;
+    border: solid 5px darkgray;
+}
+.redirecionar {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+}
+.info {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:lightblue;
+
 }
 .titulo1 {
     font-size: 50px;
